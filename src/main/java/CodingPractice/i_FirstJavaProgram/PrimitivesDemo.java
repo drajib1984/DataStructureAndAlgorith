@@ -1,4 +1,4 @@
-package i_FirstJavaProgram;
+package CodingPractice.i_FirstJavaProgram;
 
 public class PrimitivesDemo {
     public static void main(String[] args) {
