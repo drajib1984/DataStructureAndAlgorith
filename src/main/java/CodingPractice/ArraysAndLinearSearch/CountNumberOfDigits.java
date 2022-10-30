@@ -1,4 +1,4 @@
-package CodingPractice.Arrays;
+package CodingPractice.ArraysAndLinearSearch;
 
 public class CountNumberOfDigits {
     public static void main(String[] args) {

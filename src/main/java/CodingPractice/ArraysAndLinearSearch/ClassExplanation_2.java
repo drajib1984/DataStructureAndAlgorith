@@ -1,4 +1,4 @@
-package CodingPractice.Arrays;
+package CodingPractice.ArraysAndLinearSearch;
 
 import java.util.Arrays;
 
