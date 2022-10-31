@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c51989-e44c-4bb5-b733-87022dad99c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/CeilingOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/FloorOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/FirstAndLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/PeakIndexInMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/PositionOfElementInInfiniteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/SearchInMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/SmallestLetterGreaterThanTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/CeilingOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/CeilingOfNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +50,9 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FloorOfNumber">
-    <configuration name="CeilingOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.CeilingOfNumber" />
+  <component name="RunManager" selected="Application.SearchInMountainArray">
+    <configuration name="CodingPractice.BinarySearch.FirstAndLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.FirstAndLastPosition" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassExplanation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.ClassExplanation" />
+    <configuration name="CodingPractice.BinarySearch.PositionOfElementInInfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.PositionOfElementInInfiniteArray" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -73,21 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodingPractice.ArraysAndLinearSearch.Array2DPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.ArraysAndLinearSearch.Array2DPractice" />
-      <module name="DataStructureAndAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodingPractice.ArraysAndLinearSearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FloorOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.FloorOfNumber" />
+    <configuration name="CodingPractice.BinarySearch.SmallestLetterGreaterThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.SmallestLetterGreaterThanTarget" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +90,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderAgnosticBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.OrderAgnosticBinarySearch" />
+    <configuration name="PeakIndexInMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.PeakIndexInMountainArray" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingPractice.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.SearchInMountainArray" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FloorOfNumber" />
-        <item itemvalue="Application.CeilingOfNumber" />
-        <item itemvalue="Application.OrderAgnosticBinarySearch" />
-        <item itemvalue="Application.ClassExplanation" />
-        <item itemvalue="Application.CodingPractice.ArraysAndLinearSearch.Array2DPractice" />
+        <item itemvalue="Application.SearchInMountainArray" />
+        <item itemvalue="Application.PeakIndexInMountainArray" />
+        <item itemvalue="Application.CodingPractice.BinarySearch.PositionOfElementInInfiniteArray" />
+        <item itemvalue="Application.CodingPractice.BinarySearch.FirstAndLastPosition" />
+        <item itemvalue="Application.CodingPractice.BinarySearch.SmallestLetterGreaterThanTarget" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +143,8 @@
       <workItem from="1666795858900" duration="17245000" />
       <workItem from="1666831330755" duration="2203000" />
       <workItem from="1667083612133" duration="6339000" />
-      <workItem from="1667170869313" duration="4666000" />
+      <workItem from="1667170869313" duration="5660000" />
+      <workItem from="1667226502578" duration="12371000" />
     </task>
     <servers />
   </component>

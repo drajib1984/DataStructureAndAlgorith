@@ -4,7 +4,7 @@ package CodingPractice.BinarySearch;
 public class CeilingOfNumber {
     public static void main(String[] args) {
         int [] arr = {1,2,4,9,87,90,458,853,45698};
-        System.out.println(CeilingOfNumber(arr, 85699));
+        System.out.println(CeilingOfNumber(arr, 95));
     }
 
     public static int CeilingOfNumber(int [] arr, int target){
