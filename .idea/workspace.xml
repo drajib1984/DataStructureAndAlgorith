@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c51989-e44c-4bb5-b733-87022dad99c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/OrderAgnosticBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/CeilingOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/FloorOfNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/Arrays/Array2DPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/Array2DPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/Arrays/ArrayPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/ArrayPractices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/Arrays/ClassExplanation_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/ClassExplanation_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/Arrays/ClassExplanation_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/ClassExplanation_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/Arrays/CountNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/CountNumberOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/ClassExplanation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/ClassExplanation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +46,20 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OrderAgnosticBinarySearch">
+  <component name="RunManager" selected="Application.FloorOfNumber">
+    <configuration name="CeilingOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.CeilingOfNumber" />
+      <module name="DataStructureAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingPractice.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClassExplanation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.ClassExplanation" />
       <module name="DataStructureAndAlgorithm" />
@@ -78,25 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodingPractice.ArraysAndLinearSearch.ArrayPractices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.ArraysAndLinearSearch.ArrayPractices" />
+    <configuration name="FloorOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.FloorOfNumber" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.ArraysAndLinearSearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.ArraysAndLinearSearch.CountNumberOfDigits" />
-      <module name="DataStructureAndAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodingPractice.ArraysAndLinearSearch.*" />
+          <option name="PATTERN" value="CodingPractice.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloorOfNumber" />
+        <item itemvalue="Application.CeilingOfNumber" />
         <item itemvalue="Application.OrderAgnosticBinarySearch" />
         <item itemvalue="Application.ClassExplanation" />
-        <item itemvalue="Application.CodingPractice.ArraysAndLinearSearch.CountNumberOfDigits" />
         <item itemvalue="Application.CodingPractice.ArraysAndLinearSearch.Array2DPractice" />
-        <item itemvalue="Application.CodingPractice.ArraysAndLinearSearch.ArrayPractices" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +138,8 @@
       <workItem from="1666757413018" duration="46000" />
       <workItem from="1666795858900" duration="17245000" />
       <workItem from="1666831330755" duration="2203000" />
-      <workItem from="1667083612133" duration="5578000" />
+      <workItem from="1667083612133" duration="6339000" />
+      <workItem from="1667170869313" duration="4666000" />
     </task>
     <servers />
   </component>
