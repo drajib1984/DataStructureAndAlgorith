@@ -27,7 +27,7 @@ public class ClassExplanation {
         }
         return -1;
     }
-// find target element in descending order sorted array
+// find target element in descending ordered sorted array
     public static int binarySearchDesc(int[] arr, int target){
         int start = 0;
         int end = arr.length-1;
