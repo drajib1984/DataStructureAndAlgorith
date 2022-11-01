@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c51989-e44c-4bb5-b733-87022dad99c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/ConcatenationOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/RichestCustomerWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/RunningSumOf1dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/ShuffleTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/BinarySearch2D/BinarySearch2DArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/CeilingOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/CeilingOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/ClassExplanation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/ClassExplanation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/FloorOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/FloorOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/SmallestLetterGreaterThanTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/SmallestLetterGreaterThanTarget.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +49,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SearchInRotatedSortedArray">
-    <configuration name="CeilingOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.CeilingOfNumber" />
+  <component name="RunManager" selected="Application.BinarySearch2DArray">
+    <configuration name="BinarySearch2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.BinarySearch2D.BinarySearch2DArray" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.*" />
+          <option name="PATTERN" value="CodingPractice.BinarySearch.BinarySearch2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstAndLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.FirstAndLastPosition" />
+    <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.Assignments.ConcatenationOfArray" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.*" />
+          <option name="PATTERN" value="CodingPractice.BinarySearch.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloorOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.FloorOfNumber" />
+    <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.Assignments.RichestCustomerWealth" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.*" />
+          <option name="PATTERN" value="CodingPractice.BinarySearch.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.SearchInRotatedSortedArray" />
+    <configuration name="RunningSumOf1dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.Assignments.RunningSumOf1dArray" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.*" />
+          <option name="PATTERN" value="CodingPractice.BinarySearch.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestLetterGreaterThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.SmallestLetterGreaterThanTarget" />
+    <configuration name="ShuffleTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.Assignments.ShuffleTheArray" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.*" />
+          <option name="PATTERN" value="CodingPractice.BinarySearch.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SearchInRotatedSortedArray" />
-        <item itemvalue="Application.FirstAndLastPosition" />
-        <item itemvalue="Application.SmallestLetterGreaterThanTarget" />
-        <item itemvalue="Application.FloorOfNumber" />
-        <item itemvalue="Application.CeilingOfNumber" />
+        <item itemvalue="Application.BinarySearch2DArray" />
+        <item itemvalue="Application.ShuffleTheArray" />
+        <item itemvalue="Application.RichestCustomerWealth" />
+        <item itemvalue="Application.RunningSumOf1dArray" />
+        <item itemvalue="Application.ConcatenationOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,8 @@
       <workItem from="1666831330755" duration="2203000" />
       <workItem from="1667083612133" duration="6339000" />
       <workItem from="1667170869313" duration="5660000" />
-      <workItem from="1667226502578" duration="17972000" />
+      <workItem from="1667226502578" duration="18600000" />
+      <workItem from="1667311324786" duration="8095000" />
     </task>
     <servers />
   </component>
