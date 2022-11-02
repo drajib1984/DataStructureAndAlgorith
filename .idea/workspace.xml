@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c51989-e44c-4bb5-b733-87022dad99c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/ConcatenationOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/RichestCustomerWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/RunningSumOf1dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/ShuffleTheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/BinarySearch2D/BinarySearch2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/Sorting/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +45,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearch2DArray">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration name="BinarySearch2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.BinarySearch2D.BinarySearch2DArray" />
       <module name="DataStructureAndAlgorithm" />
@@ -63,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatenationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.Assignments.ConcatenationOfArray" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingPractice.Sorting.BubbleSort" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.Assignments.*" />
+          <option name="PATTERN" value="CodingPractice.Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.BinarySearch2DArray" />
         <item itemvalue="Application.ShuffleTheArray" />
         <item itemvalue="Application.RichestCustomerWealth" />
         <item itemvalue="Application.RunningSumOf1dArray" />
-        <item itemvalue="Application.ConcatenationOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +140,8 @@
       <workItem from="1667083612133" duration="6339000" />
       <workItem from="1667170869313" duration="5660000" />
       <workItem from="1667226502578" duration="18600000" />
-      <workItem from="1667311324786" duration="8095000" />
+      <workItem from="1667311324786" duration="9769000" />
+      <workItem from="1667346249888" duration="1164000" />
     </task>
     <servers />
   </component>
