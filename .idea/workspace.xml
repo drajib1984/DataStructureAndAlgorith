@@ -5,8 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c51989-e44c-4bb5-b733-87022dad99c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodingPractice/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/CheckPrimeOrComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/CheckStringContainsOnlyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/FactorialOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/FindDuplicatesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/LargestAndSmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/MissingNNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/Print1_100_without_numberInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/ReplaceSpecialCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/ReverseAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/Swap2Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/YouTubeCodingQuestions/Swap2Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/Array2DPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/ArraysAndLinearSearch/Array2DPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/ArrayPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/ArraysAndLinearSearch/ArrayPractices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/ClassExplanation_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/ArraysAndLinearSearch/ClassExplanation_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/ClassExplanation_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/ArraysAndLinearSearch/ClassExplanation_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/ArraysAndLinearSearch/CountNumberOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/ArraysAndLinearSearch/CountNumberOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BasicPractices/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BasicPractices/Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BasicPractices/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BasicPractices/Practice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/ConcatenationOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/Assignments/ConcatenationOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/RichestCustomerWealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/Assignments/RichestCustomerWealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/RunningSumOf1dArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/Assignments/RunningSumOf1dArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/Assignments/ShuffleTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/Assignments/ShuffleTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/BinarySearch2D/BinarySearch2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/BinarySearch2D/BinarySearch2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/CeilingOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/CeilingOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/ClassExplanation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/ClassExplanation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/FirstAndLastPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/FirstAndLastPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/FloorOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/FloorOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/OrderAgnosticBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/OrderAgnosticBinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/PeakIndexInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/PeakIndexInMountainArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/PositionOfElementInInfiniteArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/PositionOfElementInInfiniteArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/SearchInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/SearchInMountainArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/BinarySearch/SmallestLetterGreaterThanTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/BinarySearch/SmallestLetterGreaterThanTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/AreaAndCircumference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/AreaAndCircumference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/CheckEvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/CheckEvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/CheckMinAndMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/CheckMinAndMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/CheckPrimeOrComposite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/CheckPrimeOrComposite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/CheckStudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/CheckStudentGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/FactorialProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/FactorialProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/PalindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/PalindromeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/PythagoreanTripletCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/PythagoreanTripletCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/SumAndProductOf2Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/SumAndProductOf2Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/SumOfNnumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/SumOfNnumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/FunctionsPractice/VoteEligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/FunctionsPractice/VoteEligibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/LoopPractice/Intermediate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/LoopPractice/Intermediate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/LoopPractice/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/LoopPractice/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/Sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/i_FirstJavaProgram/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/i_FirstJavaProgram/Inputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/i_FirstJavaProgram/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/i_FirstJavaProgram/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/i_FirstJavaProgram/PrimitivesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/i_FirstJavaProgram/PrimitivesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/i_FirstJavaProgram/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/i_FirstJavaProgram/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodingPractice/i_FirstJavaProgram/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructureAlgorithm/i_FirstJavaProgram/TypeCasting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +100,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BubbleSort">
-    <configuration name="BinarySearch2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.BinarySearch2D.BinarySearch2DArray" />
+  <component name="RunManager" selected="Application.PrintHelloWorldWithoutSemiColon">
+    <configuration name="CheckStringContainsOnlyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YouTubeCodingQuestions.CheckStringContainsOnlyNumbers" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.BinarySearch2D.*" />
+          <option name="PATTERN" value="YouTubeCodingQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.Sorting.BubbleSort" />
+    <configuration name="FindDuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YouTubeCodingQuestions.FindDuplicatesInArray" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.Sorting.*" />
+          <option name="PATTERN" value="YouTubeCodingQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.Assignments.RichestCustomerWealth" />
+    <configuration name="Print1_100_without_numberInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YouTubeCodingQuestions.Print1_100_without_numberInput" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.Assignments.*" />
+          <option name="PATTERN" value="YouTubeCodingQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSumOf1dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.Assignments.RunningSumOf1dArray" />
+    <configuration name="PrintHelloWorldWithoutSemiColon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YouTubeCodingQuestions.PrintHelloWorldWithoutSemiColon" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.Assignments.*" />
+          <option name="PATTERN" value="YouTubeCodingQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingPractice.BinarySearch.Assignments.ShuffleTheArray" />
+    <configuration name="ReplaceSpecialCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YouTubeCodingQuestions.ReplaceSpecialCharacters" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingPractice.BinarySearch.Assignments.*" />
+          <option name="PATTERN" value="YouTubeCodingQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.BinarySearch2DArray" />
-        <item itemvalue="Application.ShuffleTheArray" />
-        <item itemvalue="Application.RichestCustomerWealth" />
-        <item itemvalue="Application.RunningSumOf1dArray" />
+        <item itemvalue="Application.PrintHelloWorldWithoutSemiColon" />
+        <item itemvalue="Application.Print1_100_without_numberInput" />
+        <item itemvalue="Application.ReplaceSpecialCharacters" />
+        <item itemvalue="Application.CheckStringContainsOnlyNumbers" />
+        <item itemvalue="Application.FindDuplicatesInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +196,8 @@
       <workItem from="1667170869313" duration="5660000" />
       <workItem from="1667226502578" duration="18600000" />
       <workItem from="1667311324786" duration="9769000" />
-      <workItem from="1667346249888" duration="1164000" />
+      <workItem from="1667346249888" duration="2190000" />
+      <workItem from="1667398397822" duration="15000000" />
     </task>
     <servers />
   </component>
