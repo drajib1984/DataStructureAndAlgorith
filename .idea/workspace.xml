@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c51989-e44c-4bb5-b733-87022dad99c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ByRunnableInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ByThreadClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadCases/SingleTask_MultipleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadCases/SingleTask_SingleThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadCases/MultipleTask_MultipleThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +44,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SingleTask_MultipleThread">
+  <component name="RunManager" selected="Application.MultipleTask_MultipleThread">
     <configuration name="ByRunnableInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultiThreading.ByRunnableInterface" />
       <module name="DataStructureAndAlgorithm" />
@@ -75,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintHelloWorldWithoutSemiColon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YouTubeCodingQuestions.PrintHelloWorldWithoutSemiColon" />
+    <configuration name="MultipleTask_MultipleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.ThreadCases.MultipleTask_MultipleThread" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="YouTubeCodingQuestions.*" />
+          <option name="PATTERN" value="MultiThreading.ThreadCases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultipleTask_MultipleThread" />
         <item itemvalue="Application.SingleTask_MultipleThread" />
         <item itemvalue="Application.SingleTask_SingleThread" />
         <item itemvalue="Application.ByRunnableInterface" />
         <item itemvalue="Application.ByThreadClass" />
-        <item itemvalue="Application.PrintHelloWorldWithoutSemiColon" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +143,7 @@
       <workItem from="1667346249888" duration="2190000" />
       <workItem from="1667398397822" duration="15806000" />
       <workItem from="1667437343466" duration="128000" />
-      <workItem from="1669063291496" duration="2663000" />
+      <workItem from="1669063291496" duration="3713000" />
     </task>
     <servers />
   </component>
