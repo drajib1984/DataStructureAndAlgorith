@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1c51989-e44c-4bb5-b733-87022dad99c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadCases/MultipleTask_MultipleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/DaemonThread/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadMethods/ThreadName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadMethods/ThreadNameIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadPriority/CheckPriority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +48,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultipleTask_MultipleThread">
-    <configuration name="ByRunnableInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.ByRunnableInterface" />
+  <component name="RunManager" selected="Application.CheckPriority">
+    <configuration name="CheckPriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.ThreadPriority.CheckPriority" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="MultiThreading.ThreadPriority.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ByThreadClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.ByThreadClass" />
+    <configuration name="DaemonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.DaemonThread.DaemonThread" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.*" />
+          <option name="PATTERN" value="MultiThreading.DaemonThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleTask_MultipleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.ThreadCases.SingleTask_MultipleThread" />
+    <configuration name="ThreadName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.ThreadMethods.ThreadName" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.ThreadCases.*" />
+          <option name="PATTERN" value="MultiThreading.ThreadMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleTask_SingleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.ThreadCases.SingleTask_SingleThread" />
+    <configuration name="ThreadNameIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading.ThreadMethods.ThreadNameIntro" />
       <module name="DataStructureAndAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.ThreadCases.*" />
+          <option name="PATTERN" value="MultiThreading.ThreadMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckPriority" />
+        <item itemvalue="Application.DaemonThread" />
+        <item itemvalue="Application.ThreadName" />
+        <item itemvalue="Application.ThreadNameIntro" />
         <item itemvalue="Application.MultipleTask_MultipleThread" />
-        <item itemvalue="Application.SingleTask_MultipleThread" />
-        <item itemvalue="Application.SingleTask_SingleThread" />
-        <item itemvalue="Application.ByRunnableInterface" />
-        <item itemvalue="Application.ByThreadClass" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +147,9 @@
       <workItem from="1667346249888" duration="2190000" />
       <workItem from="1667398397822" duration="15806000" />
       <workItem from="1667437343466" duration="128000" />
-      <workItem from="1669063291496" duration="3713000" />
+      <workItem from="1669063291496" duration="4496000" />
+      <workItem from="1669131211569" duration="1794000" />
+      <workItem from="1669392896142" duration="6093000" />
     </task>
     <servers />
   </component>
