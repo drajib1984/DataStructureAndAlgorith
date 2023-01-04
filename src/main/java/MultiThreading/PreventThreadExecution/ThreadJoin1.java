@@ -4,6 +4,7 @@ public class ThreadJoin1 implements Runnable{
     @Override
     public void run() {
 
+
         try {
             for (int i = 0; i <= 5; i++) {
                 Thread.sleep(1000);
@@ -18,7 +19,7 @@ public class ThreadJoin1 implements Runnable{
     public static void main(String[] args) throws InterruptedException {
         ThreadJoin1 threadJoin = new ThreadJoin1();
         Thread.currentThread().setName("Main Thread");
-        String name = Thread.currentThread().getName();
+        String threadName = Thread.currentThread().getName();
         Thread thread = new Thread(threadJoin);
         thread.start();
         thread.setName("Child Thread");
